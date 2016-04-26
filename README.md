@@ -1,4 +1,4 @@
-## this fork allows multipe EXIF attributes
+## this fork allows multiple EXIF attributes
 
 # node-raspicam 
 
