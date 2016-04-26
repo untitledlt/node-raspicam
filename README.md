@@ -1,6 +1,14 @@
-## this fork allows multiple EXIF attributes
+# this fork allows multiple EXIF attributes
 
-# node-raspicam 
+## usage
+
+	camera = new RaspiCam({
+	    mode: 'timelapse',
+	    exif: ['IFD0.Copyright=Kopiraightas', 'IFD0.Artist=RRRRRRR']
+	});
+
+
+## node-raspicam 
 
 A Node.js-based controller module for the Raspberry Pi camera.
 
