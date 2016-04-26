@@ -1,12 +1,11 @@
-# node-raspicam
+## this fork allows multipe EXIF attributes
+
+# node-raspicam 
 
 A Node.js-based controller module for the Raspberry Pi camera.
 
 _Note_: This should work well for photo and timelapse, video has yet to be tested but may work as well.
 
-## To Install
-
-	npm install raspicam
 
 ## To Use
 
