@@ -4,7 +4,7 @@
 
 	camera = new RaspiCam({
 	    mode: 'timelapse',
-	    exif: ['IFD0.Copyright=Kopiraightas', 'IFD0.Artist=RRRRRRR']
+	    exif: ['IFD0.Copyright=Your copyright message', 'IFD0.Artist=Your name']
 	});
 
 
